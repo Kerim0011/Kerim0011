@@ -1,6 +1,20 @@
-Computer Science student based in Sarajevo, Bosnia and Herzegovina, focusing on Software Engineering, Mobile Development, and AI Applications.
+Computer Science student based in Sarajevo, Bosnia and Herzegovina, focusing on Software Engineering and Artificial Intelligence (AI).
 
-I am passionate about applying computer science principles to solve real-world problems and building full-stack, mobile, and AI-powered applications. I enjoy contributing to challenging projects, learning new technologies, and improving user experiences.
+My practical experience includes:
+
+Full-stack Web Development (Frontend & Backend)
+
+Mobile Application Development (Android & Cross-Platform)
+
+Desktop Application Development
+
+Game Development
+
+AI Applications
+
+Testing & Quality Assurance (Unit, Integration, Automated Testing)
+
+WordPress Development
 
 
 **International Burch University** – Bachelor of Computer Science and Engineering  
