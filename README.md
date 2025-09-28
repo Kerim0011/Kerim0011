@@ -2,15 +2,12 @@ Computer Science student based in Sarajevo, Bosnia and Herzegovina, focusing on 
 
 My practical experience includes:
 
-Full-stack Web Development (Frontend & Backend)
+- **Full-stack Web Development (Frontend & Backend)**
+- **Mobile Application Development (Android & Cross-Platform)**
+- **AI Applications**
+- **Testing & Quality Assurance (Unit, Integration, Automated Testing)**
+- **WordPress Development**
 
-Mobile Application Development (Android & Cross-Platform)
-
-AI Applications
-
-Testing & Quality Assurance (Unit, Integration, Automated Testing)
-
-WordPress Development
 
 
 **International Burch University** – Bachelor of Computer Science and Engineering  
