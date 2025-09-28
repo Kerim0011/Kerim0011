@@ -6,8 +6,6 @@ Full-stack Web Development (Frontend & Backend)
 
 Mobile Application Development (Android & Cross-Platform)
 
-Desktop Application Development
-
 AI Applications
 
 Testing & Quality Assurance (Unit, Integration, Automated Testing)
