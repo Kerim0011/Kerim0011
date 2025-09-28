@@ -8,8 +8,6 @@ Mobile Application Development (Android & Cross-Platform)
 
 Desktop Application Development
 
-Game Development
-
 AI Applications
 
 Testing & Quality Assurance (Unit, Integration, Automated Testing)
@@ -18,10 +16,8 @@ WordPress Development
 
 
 **International Burch University** – Bachelor of Computer Science and Engineering  
-*Graduation: July 2026, Sarajevo, BiH*
 
 **Gimnazija Dobrinjska** – Mathematics and Informatics Program  
-*Completed: 2022*
 
 ---
 
